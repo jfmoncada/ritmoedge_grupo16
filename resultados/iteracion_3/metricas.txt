@@ -1,0 +1,16 @@
+RITMOEDGE - ITERACIÓN 3
+==================================================
+
+Accuracy: 1.0000
+
+Reporte de clasificación:
+
+              precision    recall  f1-score   support
+
+ electronica       1.00      1.00      1.00         5
+    merengue       1.00      1.00      1.00         6
+       salsa       1.00      1.00      1.00         6
+
+    accuracy                           1.00        17
+   macro avg       1.00      1.00      1.00        17
+weighted avg       1.00      1.00      1.00        17
